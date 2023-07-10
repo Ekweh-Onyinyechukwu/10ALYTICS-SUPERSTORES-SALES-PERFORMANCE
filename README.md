@@ -26,6 +26,8 @@ All dataset and reports do not represent any company,institution or country but 
   Automatically derived relationship are adjusted to remove and replace unwanted relationship with the required
   
   The model is a star schema
+  
+  ![](NEW MODEL.PNG)
 
 
 
