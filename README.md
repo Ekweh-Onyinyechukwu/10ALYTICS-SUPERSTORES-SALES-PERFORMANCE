@@ -48,10 +48,25 @@ All dataset and reports do not represent any company,institution or country but 
   
   ![](NEW.PNG)
 
-  ## ANYLSIS AND VISUALISATION
-![](1.PNG)
+  ## ANAYLSIS AND VISUALISATION:
+![](SUPER1.PNG)
 
-![](2.PNG)
+- a The total sales reached 470.53k, resulting in a profit of 61.62k and a profit margin of 13.10%.
+- b The visualization indicates that Furniture was the top-selling product, contributing $0.17m, which accounts for over 36% of the total sales value.
+- c The Eastern Region demonstrated the highest performance, contributing $0.16m, which represents approximately 34% of the total sales.
+- d Analysis of sales trends over a one-year period, as depicted by the line chart, reveals an overall improvement. However, a significant decline occurred in October. Further examination using filters revealed that the top 4 products experienced low sales during that period. It is recommended to ensure consistent production and availability of these products while also focusing on increasing the market share of other products to compensate for such occurrences in the future
+
+![](SUPER2.PNG)
+
+- e The Clustered column chart represents the top 5 active customers based on their value.
+- f The Doughnut pie chart highlights the most profitable customer segment, with individual consumers contributing 46% of the total profit. Additionally, it is worth noting that a significant number of customers prefer the standard class shipping mode.
+- g The final Bar chart illustrates that California recorded higher sales, while New York generated a larger profit contribution.
+
+## CONCLUSION AND RECOMMENDATIONS:
+
+ In conclusion, it is essential to implement effective strategies to attract and retain more customers in order to increase and improve the overall profit share.
+
+Your reviews will be much appreciated.....
 
  
 
