@@ -48,7 +48,7 @@ All dataset and reports do not represent any company,institution or country but 
   
   ![](NEW.PNG)
 
-  ## ANAYLSIS AND VISUALISATION:
+  ## ANALYSIS AND VISUALISATION:
 ![](SUPER1.PNG)
 
 - a The total sales reached 470.53k, resulting in a profit of 61.62k and a profit margin of 13.10%.
